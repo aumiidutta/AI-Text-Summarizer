@@ -1,7 +1,7 @@
 # AI Text Summarizer
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/acd06f5d-d7b9-439c-b056-5e3bf65f0bd4">
+<img src="https://github.com/user-attachments/assets/12aae663-b050-4b58-9921-4fa56df559c8">
 </div>
 
 ## About
