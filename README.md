@@ -1,4 +1,9 @@
 # AI Text Summarizer
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/acd06f5d-d7b9-439c-b056-5e3bf65f0bd4">
+</div>
+
 ## About
 This website uses **philschmid's** *bart-large-cnn-samsum* ML model to provide summary of a text entered by user and uses Hugging Face Inference API for handling requests and sending responses.
 
